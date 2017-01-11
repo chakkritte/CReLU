@@ -14,6 +14,10 @@ Paper : https://arxiv.org/pdf/1603.05201v2.pdf
 	**CReLU (conv1–4)**|**39.82**%|**18.28**% 
 
 
+### Pre-trained
+coming soon
+
+
 ### Donate
 
 ![Build Status](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
