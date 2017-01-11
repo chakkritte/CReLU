@@ -15,10 +15,12 @@ Paper : https://arxiv.org/pdf/1603.05201v2.pdf
 
 	model|top-1|top-5
 	:---:|:---:|:---:
-	AlexNet|42.6%|19.6%  
-	CReLU (all)|40.93%|19.39% 
-	CReLU (conv1,4,7)|40.45 %|18.58% 
-	**CReLU (conv1–4)**|**39.82**%|**18.28**% 
+	AlexNet|42.8%|19.7%  
+	SqueezeNet|42.5%|19.7%
+	CReLU (all) in paper|40.93%|19.39% 
+	CReLU (conv1,4,7) in paper|40.45 %|18.58% 
+	CReLU (conv1–4) in paper|39.82%|18.28%
+	**CReLU (conv1–4) (me)**|**39.82**%|**18.28**%
 
 
 ### Pre-trained
