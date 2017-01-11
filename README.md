@@ -4,7 +4,7 @@ Paper : https://arxiv.org/pdf/1603.05201v2.pdf
 
 ### Results
 
-1-crop validation error on ImageNet (center 227x227 crop from resized image with shorter side=256):
+1-crop validation error on ImageNet (center 224x224 crop from resized image with shorter side=256):
 
 	model|top-1|top-5
 	:---:|:---:|:---:
