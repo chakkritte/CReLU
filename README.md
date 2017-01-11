@@ -1,4 +1,4 @@
-# CReLU
+# CReLU (Concatenated Rectified Linear Units)
 CReLU (Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units) with Caffe
 Paper : https://arxiv.org/pdf/1603.05201v2.pdf
 
