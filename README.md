@@ -12,3 +12,10 @@ Paper : https://arxiv.org/pdf/1603.05201v2.pdf
 	CReLU (all)|40.93%|19.39% 
 	CReLU (conv1,4,7)|40.45 %|18.58% 
 	**CReLU (conv1–4)**|**39.82**%|**18.28**% 
+
+
+### Donate
+
+![Build Status](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
+
+ (Bitcoin Address) : 3DermWyouJQ5MwoNvEtv2SgnvFRMTDBudv
