@@ -25,12 +25,8 @@ If you use these models in your research, please cite:
 	SqueezeNet|42.5%|19.7%
 	CReLU (all) in paper|40.93%|19.39% 
 	CReLU (conv1,4,7) in paper|40.45 %|18.58% 
-	CReLU (conv1–4) in paper|39.82%|18.28%
-	**CReLU (conv1–4) (me)**|**39.82**%|**18.28**%
+	**CReLU (conv1–4) in paper**|**39.82**%|**18.28**%
 
-
-### Pre-trained
-Model files: link
 
 
 ### Donate
