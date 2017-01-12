@@ -1,7 +1,7 @@
 # CReLU (Concatenated Rectified Linear Units)  with Caffe
 CReLU (Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units)
-By
-Wenling Shang, Kihyuk Sohn, Diogo Almeida, Honglak Lee
+
+By Wenling Shang, Kihyuk Sohn, Diogo Almeida, Honglak Lee
 
 
 Paper : https://arxiv.org/pdf/1603.05201v2.pdf
